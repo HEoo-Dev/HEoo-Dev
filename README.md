@@ -9,6 +9,7 @@
 <a href="https://github.com/HEoo-Dev" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/github.svg" alt="HEoo-Dev" height="30" width="40" /></a>
 </p>
 
-<img width="1024" height="1024" alt="beach_pixel_128_preview_1024 (1)" src="https://github.com/user-attachments/assets/b8df0e4d-c59d-4de2-9b56-8a8a07f3bc53" />
+<img width="128" height="128" alt="beach_pixel_128" src="https://github.com/user-attachments/assets/42de0fbe-ca29-4f7b-bcae-1020b09d9569" />
+
 
 
