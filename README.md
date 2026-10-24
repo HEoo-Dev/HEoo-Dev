@@ -3,7 +3,6 @@
 
 ### A passionate developer from around the world
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=HEoo-Dev&label=Profile views&color=0e75b6&style=flat" alt="HEoo-Dev" /> </p>
 
 ![Uploading IMG_2211.GIF…]()
 
